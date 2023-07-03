@@ -17,7 +17,7 @@ model = load_model("keras_model.h5", compile=False)
 class_names = open("labels.txt", "r").readlines()
 
 # Sorgente video da analizzare e predirre
-video_path = "Test_esterni/pexels-fauxels-3044910-3840x2160-24fps.mp4"
+video_path = input("Inserisci il percorso del file video da analizzare: ")
 
 #Apertura video tramite OpenCV
 video = cv2.VideoCapture(video_path)
