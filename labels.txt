@@ -1,0 +1,5 @@
+0 Handshake
+1 Highfive
+2 Hug
+3 Kiss
+4 Negative
