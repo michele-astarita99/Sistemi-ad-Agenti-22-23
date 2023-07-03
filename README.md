@@ -3,7 +3,7 @@
 
 Progetto per il corso di "Sistemi ad Agenti" 2022/2023
 
-Aprire la documentazine **Documentazione caso di studio Sistemi ad Agenti 2022-2023** per la descrizione dettagliata del progetto.
+Aprire la documentazine **Documentazione - Sistemi ad Agenti** per la descrizione dettagliata del progetto.
 
 Dopo aver scaricato il dataset dal link indicato nella documentazione ed il repository:
   1) avviare in Python la classe **conversione_clip_frame.py** inserendo correttamente nei parametri di input la directory contenente il dataset;
